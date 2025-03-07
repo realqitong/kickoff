@@ -1,2 +1,3 @@
 # kickoff
 Freshman on coding, just first step...
+fortune-telling, just for testing and amusement.
